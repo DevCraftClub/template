@@ -1,6 +1,8 @@
 name: Ошибка
 description: Сообщить об ошибке / баге
 title: "[Ошибка]: "
+labels:
+    - Ошибка
 assignees:
     - Gokujo
 body:
