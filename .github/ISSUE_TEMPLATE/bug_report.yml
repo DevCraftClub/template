@@ -3,6 +3,7 @@ description: Сообщить об ошибке / баге
 title: "[Ошибка]: "
 labels:
     - Ошибка
+    - bug
 assignees:
     - Gokujo
 body:
